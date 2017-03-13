@@ -2,5 +2,5 @@ This package implements the alias method of random number generation for an arbi
 
 You can install it with:
 
-    go get github.com/encryptio/alias
+    go get github.com/starius/alias
 
